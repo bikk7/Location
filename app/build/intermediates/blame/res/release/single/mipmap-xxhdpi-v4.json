@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\xiangmu\\zj\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "F:\\xiangmu\\zj\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\xiangmu\\zj\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\ic_launcher_foreground.png",
+        "source": "F:\\xiangmu\\zj\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\xiangmu\\zj\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\ic_launcher_round.png",
+        "source": "F:\\xiangmu\\zj\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    }
+]

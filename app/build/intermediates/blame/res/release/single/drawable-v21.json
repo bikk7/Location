@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\xiangmu\\zj\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\周晋\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\f4b41bb3ce2a79adc49b7409d5632733\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "F:\\xiangmu\\zj\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\周晋\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\f4b41bb3ce2a79adc49b7409d5632733\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\xiangmu\\zj\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\周晋\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\1c07b055b109e8f0309e16ca354adc34\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "F:\\xiangmu\\zj\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\周晋\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\f4b41bb3ce2a79adc49b7409d5632733\\res\\drawable-v21\\abc_edit_text_material.xml"
+    }
+]

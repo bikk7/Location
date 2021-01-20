@@ -1,0 +1,203 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:2:1-79:12
+INJECTED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:2:1-79:12
+INJECTED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:2:1-79:12
+INJECTED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:2:1-79:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\周晋\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\f4b41bb3ce2a79adc49b7409d5632733\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\周晋\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\f1b9d76585980cc53590e535871f861a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\周晋\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\a054a4cd890c2ac9ad4e665568fb9a44\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\周晋\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\3fcec691fc6a710d88be37d478aff7f5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\周晋\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\715bd68e17944a3f93dde2cb5bb2cdf6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\周晋\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f6f41dbc8151b7605fcf69b0fe122e64\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\周晋\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b285c798f347b9dbd735ebf8a27631f6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\周晋\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\1c07b055b109e8f0309e16ca354adc34\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\周晋\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\cd68d1f7825d635dbd29ca32e9b731af\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\周晋\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\34eaf3e0633f3b70de593eb0a51c28d6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\周晋\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3d2cc8bc1189d96ac45d78dc2c894dd1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\周晋\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ff4a61e58581406166fe6a35680dd84e\AndroidManifest.xml:17:1-22:12
+INJECTED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:2:1-79:12
+INJECTED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:2:1-79:12
+INJECTED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:2:1-79:12
+	package
+		ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml
+		INJECTED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml
+		ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:2:1-79:12
+		INJECTED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml
+		ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:2:1-79:12
+		INJECTED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:11:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:15:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:17:5-75
+	android:name
+		ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:17:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:19:22-78
+uses-permission#android.permission.INTERNET
+ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:21:22-64
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:23:5-25:47
+	tools:ignore
+		ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:25:9-44
+	android:name
+		ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:24:9-68
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:27:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:29:5-68
+	android:name
+		ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:29:22-65
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:32:5-83
+	android:name
+		ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:32:22-80
+application
+ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:34:5-77:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\周晋\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\f1b9d76585980cc53590e535871f861a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\周晋\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\f1b9d76585980cc53590e535871f861a\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:39:9-35
+	android:label
+		ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:37:9-41
+	android:roundIcon
+		ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:38:9-54
+	android:persistent
+		ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:41:9-34
+	android:icon
+		ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:36:9-43
+	android:allowBackup
+		ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:35:9-35
+	android:theme
+		ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:40:9-40
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:42:9-44:64
+	android:value
+		ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:44:13-61
+	android:name
+		ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:43:13-52
+activity#com.example.zj.Main2Activity
+ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:46:9-52:20
+	android:name
+		ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:46:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:47:13-51:29
+action#android.intent.action.MAIN
+ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:48:17-69
+	android:name
+		ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:48:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:50:17-77
+	android:name
+		ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:50:27-74
+service#com.baidu.location.f
+ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:54:9-57:41
+	android:process
+		ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:57:13-38
+	android:enabled
+		ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:56:13-35
+	android:name
+		ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:55:13-48
+activity#com.example.zj.MainActivity
+ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:59:9-50
+	android:name
+		ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:59:19-47
+activity#com.example.zj.LiveActivity
+ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:60:9-63:48
+	android:screenOrientation
+		ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:62:13-49
+	android:theme
+		ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:63:13-45
+	android:name
+		ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:61:13-41
+service#com.example.service.LiveService
+ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:65:9-70:15
+	android:process
+		ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:67:13-44
+	android:enabled
+		ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:68:13-35
+	android:exported
+		ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:69:13-36
+	android:name
+		ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:66:13-59
+service#com.example.service.MyJobService
+ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:71:9-76:19
+	android:enabled
+		ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:74:13-35
+	android:exported
+		ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:75:13-36
+	android:permission
+		ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:73:13-69
+	android:name
+		ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml:72:13-60
+uses-sdk
+INJECTED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml
+INJECTED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\周晋\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\f4b41bb3ce2a79adc49b7409d5632733\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\周晋\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\f4b41bb3ce2a79adc49b7409d5632733\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\周晋\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\f1b9d76585980cc53590e535871f861a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\周晋\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\f1b9d76585980cc53590e535871f861a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\周晋\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\a054a4cd890c2ac9ad4e665568fb9a44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\周晋\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\a054a4cd890c2ac9ad4e665568fb9a44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\周晋\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\3fcec691fc6a710d88be37d478aff7f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\周晋\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\3fcec691fc6a710d88be37d478aff7f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\周晋\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\715bd68e17944a3f93dde2cb5bb2cdf6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\周晋\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\715bd68e17944a3f93dde2cb5bb2cdf6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\周晋\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f6f41dbc8151b7605fcf69b0fe122e64\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\周晋\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f6f41dbc8151b7605fcf69b0fe122e64\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\周晋\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b285c798f347b9dbd735ebf8a27631f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\周晋\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b285c798f347b9dbd735ebf8a27631f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\周晋\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\1c07b055b109e8f0309e16ca354adc34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\周晋\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\1c07b055b109e8f0309e16ca354adc34\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\周晋\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\cd68d1f7825d635dbd29ca32e9b731af\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\周晋\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\cd68d1f7825d635dbd29ca32e9b731af\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\周晋\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\34eaf3e0633f3b70de593eb0a51c28d6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\周晋\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\34eaf3e0633f3b70de593eb0a51c28d6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\周晋\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3d2cc8bc1189d96ac45d78dc2c894dd1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\周晋\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3d2cc8bc1189d96ac45d78dc2c894dd1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\周晋\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ff4a61e58581406166fe6a35680dd84e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\周晋\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ff4a61e58581406166fe6a35680dd84e\AndroidManifest.xml:20:5-44
+INJECTED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml
+INJECTED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml
+		ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml
+		INJECTED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml
+		ADDED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml
+		INJECTED from F:\xiangmu\zj\app\src\main\AndroidManifest.xml
